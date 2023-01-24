@@ -9,6 +9,12 @@ In order to design an efficient irrigation system, the first step should be to s
 A water balance is a tool that allows to know the amount of water that will be available for the crop. Historic precipitation, runoff, percolation, soil retention and crop requirements are taken into consideration in order to calculate the water deficit that the irrigation system must deliver. With this kind of tools, the system can be designed precisely for the present conditions, and it can make a better use of water resources. Water balances help determine the critical moments in which water will be needed, therefore, when the system should be used. 
 
 When designing an irrigation system, besides knowing the crop requirements, soil and type of system will have a direct influence on the design. With the improvement of computers and software’s, designing these kinds of systems can be easily achieved. In the following documents, the objective is to create a tool that can help create a yearly water balance for the designer to focus on designing and not in studying historical weather data by getting the approximated crop need for a year period. Tools like Python are useful to automatize tasks and create small Artificial Intelligence programs.
+
+Instructions:
+  1. Download the notebook and the excel file to a known location, both should be together.
+  2. The notebook provided will allow the user to obtain data from an online website related to weather conditions. Step by step is explained on the file.
+  3. After getting the notebook steps done, the excel file 'Water_Balance.xslx' will create a water balance for the location over a year time-period. It requires some   basic information about soil and crop coefficient. More on this topics can be found at 'Irrigation Scheduling' (1).
+  
 _____________________________________________________________________________________________________________________________________________________________________
-Irrigation Scheduling: The Water Balance Approach = https://extension.colostate.edu/docs/pubs/crops/04707.pdf 
-Consejos Básicos para Diseñar Sistemas de Riego Eficientes = https://edis.ifas.ufl.edu/publication/AE549
+1. Irrigation Scheduling: The Water Balance Approach = https://extension.colostate.edu/docs/pubs/crops/04707.pdf 
+2. Consejos Básicos para Diseñar Sistemas de Riego Eficientes = https://edis.ifas.ufl.edu/publication/AE549

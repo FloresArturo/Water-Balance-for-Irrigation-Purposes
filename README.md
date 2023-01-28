@@ -13,7 +13,7 @@ When designing an irrigation system, besides knowing the crop requirements, soil
 Instructions:
   1. Download the notebook and the excel file to a known location, both should be together.
   2. The notebook provided will allow the user to obtain data from an online website related to weather conditions. Step by step is explained on the file.
-  3. After getting the notebook steps done, the excel file 'Water_Balance.xslx' will create a water balance for the location over a year time-period. It requires some   basic information about soil and crop coefficient. More on this topics can be found at 'Irrigation Scheduling' (1).
+  3. After getting the notebook steps done, the excel file will contain the information required to create a basic water balance.
   
 _____________________________________________________________________________________________________________________________________________________________________
 1. Irrigation Scheduling: The Water Balance Approach = https://extension.colostate.edu/docs/pubs/crops/04707.pdf 
